@@ -9,5 +9,16 @@
   "hours_ar": "الأثنين الي السبت، 9:00 ص – 10:00 م"
  },
  "img": {},
- "products": {}
+ "products": {
+  "c1": [
+   {
+    "id": "mx0dpn937t15",
+    "name": "APT - Cordless drill",
+    "desc": "20 V APT",
+    "name_ar": "شنيور بطارية",
+    "desc_ar": " ٢٠ فولت APT",
+    "img": "images/p-mx0dpn937t15-mx0du3bq.jpg"
+   }
+  ]
+ }
 }
