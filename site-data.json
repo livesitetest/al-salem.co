@@ -10,6 +10,18 @@
  },
  "img": {},
  "products": {
-  "c1": []
+  "c1": [
+   {
+    "id": "mx0ho9fxwkln",
+    "name": "12V Cordless Brushed Drill 20 Nm",
+    "desc": "12V Cordless Brushed Drill 20 Nm",
+    "name_ar": "",
+    "desc_ar": "",
+    "imgs": [
+     "images/p-mx0ho9fxwkln-0-mx0hr636.png"
+    ],
+    "sub": "cordless"
+   }
+  ]
  }
 }
