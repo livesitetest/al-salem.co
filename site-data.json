@@ -10,17 +10,6 @@
  },
  "img": {},
  "products": {
-  "c1": [
-   {
-    "id": "mx0dpn937t15",
-    "name": "APT - Cordless drill",
-    "desc": "20 V APT",
-    "name_ar": "شنيور بطارية",
-    "desc_ar": " ٢٠ فولت APT",
-    "imgs": [
-     "images/p-mx0dpn937t15-0-mx0gzvw6.png"
-    ]
-   }
-  ]
+  "c1": []
  }
 }
